@@ -14,7 +14,7 @@ Using "Git it write" WordPress plugin, you can publish markdown present in a Git
 ![ata_ok](https://i.pinimg.com/474x/23/c3/a7/23c3a7fe761a8df18fd40a4766907936.jpg)
 
 
-![like](/_images//hqdefault.jpg)
+![like](/_images/hqdefault.jpg)
 
 
 | Month    | Savings |
