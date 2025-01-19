@@ -5,6 +5,7 @@ taxonomy:
     doc_category: post
 ---
 
+
 Using "Git it write" WordPress plugin, you can publish markdown present in a GitHub repository.
 
 # hello world
