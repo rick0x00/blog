@@ -51,6 +51,7 @@ Aqui está uma imagem hospedada na internet:
 ![Imagem Externa](https://media.tenor.com/pFKXm8b0drQAAAAM/rodrigo-faro-gugu.gif)
 ![Imagem INTERNA](/_images/byuntear-incrives-meme.gif)
 ![Imagem INTERNA 2](/_images/confia.png)
+![Imagem INTERNA 3](/_images/chaves-baleado.jpeg)
 
 Você também pode especificar um texto alternativo para a imagem.
 
