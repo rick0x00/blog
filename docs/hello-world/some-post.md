@@ -50,7 +50,7 @@ Aqui está uma imagem hospedada na internet:
 
 ![Imagem Externa](https://media.tenor.com/pFKXm8b0drQAAAAM/rodrigo-faro-gugu.gif)
 ![Imagem INTERNA](/_images/byuntear-incrives-meme.gif)
-![Imagem INTERNA 2](/_images/não%20confia%20aq%20esta%20a%20fonte%20-%20confia.png)
+![Imagem INTERNA 2](/_images/confia.png)
 
 Você também pode especificar um texto alternativo para a imagem.
 
