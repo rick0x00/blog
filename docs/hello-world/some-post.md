@@ -52,6 +52,7 @@ Aqui está uma imagem hospedada na internet:
 ![Imagem INTERNA](/_images/byuntear-incrives-meme.gif)
 ![Imagem INTERNA 2](/_images/confia.png)
 ![Imagem INTERNA 3](/_images/chaves-baleado.jpeg)
+![Imagem INTERNA 4](/_images/afftaingles.png)
 
 Você também pode especificar um texto alternativo para a imagem.
 
