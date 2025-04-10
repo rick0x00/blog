@@ -1,6 +1,6 @@
 ---
-title: Getting started
-menu_order: 1
+title: garbage collector
+menu_order: 10
 taxonomy:
     doc_category: post
 ---
