@@ -6,6 +6,7 @@ taxonomy:
 ---
 
 
+
 # # Teste de Markdown
 
 Este é um arquivo de teste para demonstrar várias funcionalidades do Markdown. Vamos explorar os principais elementos.
